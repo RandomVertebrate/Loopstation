@@ -6,7 +6,7 @@ With these scripts you can:
 
 1)Live loop audio on 4 overdub-able and mute-able tracks
 
-2)Record your session as five .wav files (4 looping tracks and 1 live track) and mix down to one if necssary using mix.py
+2)Record your session as five .wav files (4 looping tracks and 1 live track) and mix down to one if necessary using mix.py (this is buggy)
 
 You CANNOT:
 
